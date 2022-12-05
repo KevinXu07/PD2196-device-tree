@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/vivo/PD2196/device.mk)
 
 PRODUCT_DEVICE := PD2196
-PRODUCT_NAME := omni_PD2196
+PRODUCT_NAME := twrp_PD2196
 PRODUCT_BRAND := vivo
 PRODUCT_MODEL := V2196A
 PRODUCT_MANUFACTURER := vivo
